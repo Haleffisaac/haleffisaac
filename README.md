@@ -10,6 +10,13 @@
 ### 🚀 Objetivos
 Estou sempre em busca de ser um profissional versátil e preparado. Meu foco é dominar tanto o Front-End quanto o Back-End para me tornar um desenvolvedor Full Stack completo.
 
+---
+
+### 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=haleffisaac&show_icons=true&theme=radical)
+
+---
+
 ### 🛠️ Tecnologias & Ferramentas
 - **HTML** 🌐
 - **CSS** 🎨
@@ -24,11 +31,6 @@ Estou sempre em busca de ser um profissional versátil e preparado. Meu foco é 
 ### 📫 Vamos Conectar!
 - [LinkedIn](https://www.linkedin.com/in/haleffisaac/) 📎
 - [Email](mailto:haleffisaac90x@gmail.com@example.com) 📧
-
----
-
-### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=haleffisaac&show_icons=true&theme=radical)
 
 ---
 
