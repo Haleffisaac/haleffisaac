@@ -1,16 +1,44 @@
-## Hi there 👋
+# Olá, eu sou o Haleff Isaac! 👋
 
-<!--
-**Haleffisaac/haleffisaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 Sobre mim
+- 🎓 Estudante de programação, focado em Full Stack.
+- 📚 Atualmente estudando **Front-End**.
+- 🔤 Tecnologias até agora: **HTML**, **CSS**, **JavaScript**.
+- 🧑‍🎓 18 anos, sempre em busca de novos conhecimentos.
+- 💼 Realizando cursos adicionais de Informática, Inglês, UX/UI, e Arquitetura de Redes.
 
-Here are some ideas to get you started:
+### 🚀 Objetivos
+Estou sempre em busca de ser um profissional versátil e preparado. Meu foco é dominar tanto o Front-End quanto o Back-End para me tornar um desenvolvedor Full Stack completo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias & Ferramentas
+- **HTML** 🌐
+- **CSS** 🎨
+- **JavaScript** 💻
+
+### 🎯 Outros Cursos
+- **Informática**
+- **Inglês**
+- **UX/UI**
+- **Arquitetura de Redes**
+
+### 📫 Vamos Conectar!
+- [LinkedIn](https://www.linkedin.com/in/haleffisaac/) 📎
+- [Email](mailto:haleffisaac90x@gmail.com@example.com) 📧
+
+---
+
+### 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=haleffisaac&show_icons=true&theme=radical)
+
+---
+
+### 🌱 Sempre Aprendendo
+Estou sempre explorando novas tecnologias e aprimorando minhas habilidades. Aqui estão algumas áreas que estou focando atualmente:
+
+- Desenvolvimento Responsivo 📱
+- JavaScript Avançado 🚀
+- Frameworks Front-End (React) 🖥️
+
+---
+
+Vamos nos conectar e compartilhar conhecimento! 😊
